@@ -1,20 +1,20 @@
 [
   {
-    "server": "ctfd-is-shit.top",
+    "server": "pinklove.top",
     "port": 853,
     "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-    "url": "tg://proxy?server=ctfd-is-shit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
+    "url": "tg://proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b"
   },
   {
-    "server": "2.27.15.97",
+    "server": "proxysb.xyz",
     "port": 443,
-    "secret": "eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275",
-    "url": "tg://proxy?server=2.27.15.97&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275"
+    "secret": "eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a",
+    "url": "tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a"
   },
   {
-    "server": "proxy.proxymtproto.net",
+    "server": "proxytg.live",
     "port": 443,
-    "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
-    "url": "tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a"
+    "secret": "ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665",
+    "url": "tg://proxy?server=proxytg.live&port=443&secret=ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665"
   }
 ]
