@@ -1,20 +1,20 @@
 [
   {
-    "server": "193.23.199.57",
+    "server": "host.etherealvpn.uk",
     "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=193.23.199.57&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d"
+    "secret": "ee5eb2336f3a46a15cf19ca3d707781b4c7777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=host.etherealvpn.uk&port=443&secret=ee5eb2336f3a46a15cf19ca3d707781b4c7777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "5.230.201.129",
+    "server": "94.183.177.239",
     "port": 443,
-    "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=5.230.201.129&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d"
+    "secret": "ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275",
+    "url": "tg://proxy?server=94.183.177.239&port=443&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275"
   },
   {
-    "server": "linkflowhub.shop",
-    "port": 443,
-    "secret": "ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70",
-    "url": "tg://proxy?server=linkflowhub.shop&port=443&secret=ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70"
+    "server": "mtproto.wemakecode.ru",
+    "port": 6443,
+    "secret": "e569c9792f984167ea08d493735fe342",
+    "url": "tg://proxy?server=mtproto.wemakecode.ru&port=6443&secret=e569c9792f984167ea08d493735fe342"
   }
 ]
