@@ -1,20 +1,20 @@
 [
   {
-    "server": "theoriginalproxies-5.com",
+    "server": "linkflowhub.shop",
     "port": 443,
-    "secret": "ee722ba6ba8dca2a31690a58c3a3223e2f7777772e636c6f7564666c6172652e636f6d",
-    "url": "tg://proxy?server=theoriginalproxies-5.com&port=443&secret=ee722ba6ba8dca2a31690a58c3a3223e2f7777772e636c6f7564666c6172652e636f6d"
+    "secret": "ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70",
+    "url": "tg://proxy?server=linkflowhub.shop&port=443&secret=ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70"
   },
   {
-    "server": "172.234.115.238",
-    "port": 443,
-    "secret": "3a3365be03d6bc13518d65e70a3146c2",
-    "url": "tg://proxy?server=172.234.115.238&port=443&secret=3a3365be03d6bc13518d65e70a3146c2"
+    "server": "mtp.ascel.la",
+    "port": 8443,
+    "secret": "dd5a168da5855fbccf12ccba3e0c4df359",
+    "url": "tg://proxy?server=mtp.ascel.la&port=8443&secret=dd5a168da5855fbccf12ccba3e0c4df359"
   },
   {
-    "server": "azamatx.ru",
+    "server": "win.sosproxy.space",
     "port": 443,
-    "secret": "ee688db4c727b67a544f95989d257b524d706574726f766963682e7275",
-    "url": "tg://proxy?server=azamatx.ru&port=443&secret=ee688db4c727b67a544f95989d257b524d706574726f766963682e7275"
+    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d"
   }
 ]
