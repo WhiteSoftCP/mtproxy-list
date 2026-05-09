@@ -1,20 +1,20 @@
 [
   {
-    "server": "connect.tproxyru.live",
-    "port": 8980,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
-  },
-  {
-    "server": "tproxyru.live",
-    "port": 8980,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
-  },
-  {
-    "server": "quickrouteapp.xyz",
+    "server": "172.234.115.238",
     "port": 443,
-    "secret": "ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a",
-    "url": "tg://proxy?server=quickrouteapp.xyz&port=443&secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a"
+    "secret": "3a3365be03d6bc13518d65e70a3146c2",
+    "url": "tg://proxy?server=172.234.115.238&port=443&secret=3a3365be03d6bc13518d65e70a3146c2"
+  },
+  {
+    "server": "proxy.yard-tg-bot.ru",
+    "port": 443,
+    "secret": "ee1cfe2c07741ef6c9d9dde94a7f14a3db79616e6465782e7275",
+    "url": "tg://proxy?server=proxy.yard-tg-bot.ru&port=443&secret=ee1cfe2c07741ef6c9d9dde94a7f14a3db79616e6465782e7275"
+  },
+  {
+    "server": "mtp.yard-tg-bot.ru",
+    "port": 443,
+    "secret": "eef658bb6d89b284874149c13e7d27d9da79616e6465782e7275",
+    "url": "tg://proxy?server=mtp.yard-tg-bot.ru&port=443&secret=eef658bb6d89b284874149c13e7d27d9da79616e6465782e7275"
   }
 ]
