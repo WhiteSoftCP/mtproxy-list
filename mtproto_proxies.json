@@ -1,20 +1,20 @@
 [
   {
-    "server": "connect.tproxyru.click",
-    "port": 8980,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "server": "tg2.uniqvpn.online",
+    "port": 4515,
+    "secret": "ee2e1e044a0ee0ce3efbbd27ef6a65f5126170706c652e636f6d",
+    "url": "tg://proxy?server=tg2.uniqvpn.online&port=4515&secret=ee2e1e044a0ee0ce3efbbd27ef6a65f5126170706c652e636f6d"
   },
   {
-    "server": "now.tproxyru.click",
-    "port": 8980,
-    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
-    "url": "tg://proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
+    "server": "132.243.235.187",
+    "port": 443,
+    "secret": "ee89db719934b04d0875b8a84c948e57fa79616e6465782e7275",
+    "url": "tg://proxy?server=132.243.235.187&port=443&secret=ee89db719934b04d0875b8a84c948e57fa79616e6465782e7275"
   },
   {
-    "server": "lovevesper.zoryx.tech",
-    "port": 853,
-    "secret": "ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275",
-    "url": "tg://proxy?server=lovevesper.zoryx.tech&port=853&secret=ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275"
+    "server": "132.243.235.191",
+    "port": 443,
+    "secret": "ee62c1113f25b902304012745a2b34649979616e6465782e7275",
+    "url": "tg://proxy?server=132.243.235.191&port=443&secret=ee62c1113f25b902304012745a2b34649979616e6465782e7275"
   }
 ]
