@@ -1,20 +1,20 @@
 [
   {
-    "server": "212.227.40.113",
+    "server": "t.hhelios.ru",
     "port": 443,
-    "secret": "eea1b2c3d4e5f60123456789abcdef012373332e616d617a6f6e6177732e636f6d",
-    "url": "tg://proxy?server=212.227.40.113&port=443&secret=eea1b2c3d4e5f60123456789abcdef012373332e616d617a6f6e6177732e636f6d"
+    "secret": "eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275",
+    "url": "tg://proxy?server=t.hhelios.ru&port=443&secret=eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275"
   },
   {
-    "server": "185.182.82.73",
+    "server": "tg.hhelios.ru",
     "port": 443,
-    "secret": "ee586cb8c65dc8c78f50bd4e573ae25f4873332e616d617a6f6e6177732e636f6d",
-    "url": "tg://proxy?server=185.182.82.73&port=443&secret=ee586cb8c65dc8c78f50bd4e573ae25f4873332e616d617a6f6e6177732e636f6d"
+    "secret": "eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275",
+    "url": "tg://proxy?server=tg.hhelios.ru&port=443&secret=eed2082d28b4c047cc2a783b84e9a52a1635706f73742d676174652e78352e7275"
   },
   {
-    "server": "proproxiesnl.grittytarantula.sbs",
+    "server": "2.27.22.112",
     "port": 443,
-    "secret": "ee194f2f2828b75a915baed3715e51e94070726f70726f786965736e6c2e677269747479746172616e74756c612e736273",
-    "url": "tg://proxy?server=proproxiesnl.grittytarantula.sbs&port=443&secret=ee194f2f2828b75a915baed3715e51e94070726f70726f786965736e6c2e677269747479746172616e74756c612e736273"
+    "secret": "ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275",
+    "url": "tg://proxy?server=2.27.22.112&port=443&secret=ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275"
   }
 ]
