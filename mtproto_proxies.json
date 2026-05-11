@@ -1,20 +1,20 @@
 [
   {
-    "server": "111.88.156.136",
-    "port": 443,
-    "secret": "dd8e8284414d21cdc5575cf17d59c5307e",
-    "url": "tg://proxy?server=111.88.156.136&port=443&secret=dd8e8284414d21cdc5575cf17d59c5307e"
+    "server": "connect.tproxyru.click",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-    "server": "another.life.mambabot.net",
-    "port": 4515,
-    "secret": "ee9e9ad891ef691ab3a5b8051c1fdd1561616e6f746865722e6c6966652e6d616d6261626f742e6e6574",
-    "url": "tg://proxy?server=another.life.mambabot.net&port=4515&secret=ee9e9ad891ef691ab3a5b8051c1fdd1561616e6f746865722e6c6966652e6d616d6261626f742e6e6574"
+    "server": "now.tproxyru.click",
+    "port": 8980,
+    "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
+    "url": "tg://proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275"
   },
   {
-    "server": "fast.etherealvpn.uk",
+    "server": "proxy.fluxoria.it.com",
     "port": 443,
-    "secret": "ee2a6c4a57692c97e9a8bf7bab7ae8479f706574726f766963682e7275",
-    "url": "tg://proxy?server=fast.etherealvpn.uk&port=443&secret=ee2a6c4a57692c97e9a8bf7bab7ae8479f706574726f766963682e7275"
+    "secret": "ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d",
+    "url": "tg://proxy?server=proxy.fluxoria.it.com&port=443&secret=ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d"
   }
 ]
