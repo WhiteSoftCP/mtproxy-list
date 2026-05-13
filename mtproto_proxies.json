@@ -1,20 +1,20 @@
 [
   {
-    "server": "i-dontlike-femboys.etherealvpn.uk",
+    "server": "vfast.proxytg.space",
     "port": 443,
-    "secret": "ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275",
-    "url": "tg://proxy?server=i-dontlike-femboys.etherealvpn.uk&port=443&secret=ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275"
+    "secret": "ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=vfast.proxytg.space&port=443&secret=ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "arixo.shop",
+    "server": "proxy.nolags.pw",
     "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
-    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
+    "secret": "dd1ceee809992f1b5205b6fc3cea02aac7",
+    "url": "tg://proxy?server=proxy.nolags.pw&port=443&secret=dd1ceee809992f1b5205b6fc3cea02aac7"
   },
   {
-    "server": "2.27.41.207",
+    "server": "fast.etherealvpn.uk",
     "port": 443,
-    "secret": "ee9436fa39ab47ccb34f217ac6d06b4e58617669746f2e7275",
-    "url": "tg://proxy?server=2.27.41.207&port=443&secret=ee9436fa39ab47ccb34f217ac6d06b4e58617669746f2e7275"
+    "secret": "ee369e4778721f2f5a1cc54e802e379c62706574726f766963682e7275",
+    "url": "tg://proxy?server=fast.etherealvpn.uk&port=443&secret=ee369e4778721f2f5a1cc54e802e379c62706574726f766963682e7275"
   }
 ]
