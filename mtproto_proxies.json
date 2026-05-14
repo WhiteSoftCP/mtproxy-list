@@ -1,20 +1,20 @@
 [
   {
-    "server": "swekitty.grittytarantula.sbs",
+    "server": "87.120.108.48",
     "port": 443,
-    "secret": "ee7c9245a98f1f79bd6f318cbd8118c10f7377656b697474792e677269747479746172616e74756c612e736273",
-    "url": "tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee7c9245a98f1f79bd6f318cbd8118c10f7377656b697474792e677269747479746172616e74756c612e736273"
+    "secret": "074e7d1d37cc043746fd0c823f20d21a",
+    "url": "tg://proxy?server=87.120.108.48&port=443&secret=074e7d1d37cc043746fd0c823f20d21a"
   },
   {
-    "server": "proproxiesnl.grittytarantula.sbs",
+    "server": "87.120.108.38",
     "port": 443,
-    "secret": "ee46b9756da2530209236c4a3c12814b1670726f70726f786965736e6c2e677269747479746172616e74756c612e736273",
-    "url": "tg://proxy?server=proproxiesnl.grittytarantula.sbs&port=443&secret=ee46b9756da2530209236c4a3c12814b1670726f70726f786965736e6c2e677269747479746172616e74756c612e736273"
+    "secret": "f212b4ee21a6f1026aadae4ce0b08f98",
+    "url": "tg://proxy?server=87.120.108.38&port=443&secret=f212b4ee21a6f1026aadae4ce0b08f98"
   },
   {
-    "server": "fit.proxytg.space",
+    "server": "80.241.216.110",
     "port": 443,
-    "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=fit.proxytg.space&port=443&secret=ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d"
+    "secret": "7vaJt82Sn9_w6Ojol_x57I9wZXRyb3ZpY2gucnU",
+    "url": "tg://proxy?server=80.241.216.110&port=443&secret=7vaJt82Sn9_w6Ojol_x57I9wZXRyb3ZpY2gucnU"
   }
 ]
