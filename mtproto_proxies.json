@@ -1,20 +1,20 @@
 [
   {
-    "server": "147.45.79.137",
+    "server": "217.60.98.160",
     "port": 443,
-    "secret": "eea90f801141cbf3154444b618e56f7976766b2e636f6d",
-    "url": "tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d"
+    "secret": "eed9fd89062ab62abcbf1bd82dfe9140047777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=217.60.98.160&port=443&secret=eed9fd89062ab62abcbf1bd82dfe9140047777772e6d6963726f736f66742e636f6d"
   },
   {
-    "server": "mt.shifor.live",
+    "server": "arixo.shop",
     "port": 443,
-    "secret": "7uHeEUlaH5mpHE7gyGMlK1htdC5zaGlmb3IubGl2ZQ",
-    "url": "tg://proxy?server=mt.shifor.live&port=443&secret=7uHeEUlaH5mpHE7gyGMlK1htdC5zaGlmb3IubGl2ZQ"
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   },
   {
-    "server": "144.31.221.15",
+    "server": "pika.proxytg.space",
     "port": 443,
-    "secret": "b2d53412432435cd7d8e90b4d0821d60",
-    "url": "tg://proxy?server=144.31.221.15&port=443&secret=b2d53412432435cd7d8e90b4d0821d60"
+    "secret": "ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365",
+    "url": "tg://proxy?server=pika.proxytg.space&port=443&secret=ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365"
   }
 ]
