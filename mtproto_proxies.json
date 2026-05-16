@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxy.subs-sosavpn.ru",
-    "port": 8443,
-    "secret": "bfb77f1c4bf8a5c16eb5a3d93954ce69",
-    "url": "tg://proxy?server=proxy.subs-sosavpn.ru&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69"
+    "server": "ethereal.arixo.shop",
+    "port": 443,
+    "secret": "eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275",
+    "url": "tg://proxy?server=ethereal.arixo.shop&port=443&secret=eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275"
   },
   {
-    "server": "204.168.255.33",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=204.168.255.33&port=8080&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "femboy.arixo.shop",
+    "port": 443,
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=femboy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   },
   {
-    "server": "88.198.203.112",
-    "port": 8080,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=88.198.203.112&port=8080&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "104.253.43.252",
+    "port": 443,
+    "secret": "eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275",
+    "url": "tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275"
   }
 ]
