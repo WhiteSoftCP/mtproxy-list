@@ -1,20 +1,20 @@
 [
   {
-    "server": "ark.proxytg.space",
+    "server": "tg1.tgproxy1.fun",
     "port": 443,
-    "secret": "eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365",
-    "url": "tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365"
+    "secret": "ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e",
+    "url": "tg://proxy?server=tg1.tgproxy1.fun&port=443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e"
   },
   {
-    "server": "atg.proxytg.space",
+    "server": "144.31.221.15",
     "port": 443,
-    "secret": "eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365",
-    "url": "tg://proxy?server=atg.proxytg.space&port=443&secret=eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365"
+    "secret": "bfb063cc6d861de10f6a39c795fc66e4",
+    "url": "tg://proxy?server=144.31.221.15&port=443&secret=bfb063cc6d861de10f6a39c795fc66e4"
   },
   {
-    "server": "186.246.16.55",
+    "server": "arixo.shop",
     "port": 443,
-    "secret": "ee7d21ac88a75bdb5887ec4918a20386927777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=186.246.16.55&port=443&secret=ee7d21ac88a75bdb5887ec4918a20386927777772e6d6963726f736f66742e636f6d"
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   }
 ]
