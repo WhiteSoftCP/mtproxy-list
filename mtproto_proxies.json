@@ -1,20 +1,20 @@
 [
   {
-    "server": "rn.quantadc.online",
+    "server": "hyper.sosproxy.space",
     "port": 443,
-    "secret": "ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65",
-    "url": "tg://proxy?server=rn.quantadc.online&port=443&secret=ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65"
+    "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "rkn.prxtoday.space",
+    "server": "186.246.20.121",
     "port": 443,
-    "secret": "eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365",
-    "url": "tg://proxy?server=rkn.prxtoday.space&port=443&secret=eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365"
+    "secret": "eec11798ab008831b474066c9e1ebf5c99617669746f2e7275",
+    "url": "tg://proxy?server=186.246.20.121&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275"
   },
   {
-    "server": "proxy.chunkycorp.shop",
+    "server": "186.246.16.123",
     "port": 443,
-    "secret": "ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275",
-    "url": "tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275"
+    "secret": "ee64a7c68e4083ec77823115e01a44b8507777772e6d6963726f736f66742e636f6d",
+    "url": "tg://proxy?server=186.246.16.123&port=443&secret=ee64a7c68e4083ec77823115e01a44b8507777772e6d6963726f736f66742e636f6d"
   }
 ]
