@@ -1,20 +1,20 @@
 [
   {
-    "server": "sex.etherealvpn.uk",
-    "port": 443,
-    "secret": "ee0701bd90bfa663c01c08d1e293209e287777772e6d6963726f736f66742e636f6d",
-    "url": "tg://proxy?server=sex.etherealvpn.uk&port=443&secret=ee0701bd90bfa663c01c08d1e293209e287777772e6d6963726f736f66742e636f6d"
+    "server": "alpina.agency",
+    "port": 8443,
+    "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
+    "url": "tg://proxy?server=alpina.agency&port=8443&secret=eea02597a68d4821f58d17e6405c389da16164732e78352e7275"
   },
   {
-    "server": "72.56.40.220",
-    "port": 443,
-    "secret": "eec11798ab008831b474066c9e1ebf5c98617669746f2e7275",
-    "url": "tg://proxy?server=72.56.40.220&port=443&secret=eec11798ab008831b474066c9e1ebf5c98617669746f2e7275"
+    "server": "mt.nowabst.com",
+    "port": 853,
+    "secret": "7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU",
+    "url": "tg://proxy?server=mt.nowabst.com&port=853&secret=7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU"
   },
   {
-    "server": "win.sosproxy.space",
+    "server": "a.errornet.work",
     "port": 443,
-    "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d"
+    "secret": "eec16f877103ba211b5652459a26bf65dd7777772e626f6f6b696e672e636f6d",
+    "url": "tg://proxy?server=a.errornet.work&port=443&secret=eec16f877103ba211b5652459a26bf65dd7777772e626f6f6b696e672e636f6d"
   }
 ]
