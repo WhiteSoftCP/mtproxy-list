@@ -1,20 +1,20 @@
 [
   {
-    "server": "alpina.agency",
-    "port": 8443,
-    "secret": "eea02597a68d4821f58d17e6405c389da16164732e78352e7275",
-    "url": "tg://proxy?server=alpina.agency&port=8443&secret=eea02597a68d4821f58d17e6405c389da16164732e78352e7275"
-  },
-  {
-    "server": "mt.nowabst.com",
-    "port": 853,
-    "secret": "7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU",
-    "url": "tg://proxy?server=mt.nowabst.com&port=853&secret=7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU"
-  },
-  {
-    "server": "a.errornet.work",
+    "server": "mtp.webvirt.cloud",
     "port": 443,
-    "secret": "eec16f877103ba211b5652459a26bf65dd7777772e626f6f6b696e672e636f6d",
-    "url": "tg://proxy?server=a.errornet.work&port=443&secret=eec16f877103ba211b5652459a26bf65dd7777772e626f6f6b696e672e636f6d"
+    "secret": "ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
+    "url": "tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564"
+  },
+  {
+    "server": "193.23.199.16",
+    "port": 8443,
+    "secret": "eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=193.23.199.16&port=8443&secret=eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d"
+  },
+  {
+    "server": "130.49.218.57",
+    "port": 443,
+    "secret": "ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=130.49.218.57&port=443&secret=ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d"
   }
 ]
